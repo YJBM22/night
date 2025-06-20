@@ -1,6 +1,7 @@
 # BERT-GPT
 # 一、基于BERT的情感分类任务
-<img width="865" alt="1" src="https://github.com/user-attachments/assets/1faaa432-ce60-474e-8380-0c63cc079d3f" />
+![image](https://github.com/user-attachments/assets/d7d20d97-395d-4cf4-9147-de6c66f49ddb)
+
 
 
 # 二、基于GPT的文本续写
