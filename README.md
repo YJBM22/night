@@ -4,4 +4,5 @@
 
 
 # 二、基于GPT的文本续写
-<img width="892" alt="2" src="https://github.com/user-attachments/assets/55fd9e31-856b-433f-9885-a7224ae60b0c" />
+![image](https://github.com/user-attachments/assets/9defb7f1-6263-4ba4-83f4-5b6662d15e39)
+
